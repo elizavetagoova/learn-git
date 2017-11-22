@@ -1,0 +1,5 @@
+# folder ignore-files
+ignore-files/
+
+# txt-files
+ignore-files/*.txt
